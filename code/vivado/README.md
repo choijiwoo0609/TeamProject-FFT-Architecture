@@ -1,4 +1,4 @@
-# FPGA Guiad
+# FPGA Guide
 ## A. Xilinx Vivado Start
 1. Xilinx Vivado를 시작하여 'Create Project' 실행.
 2. Project를 만드는 과정에서 사전에 배치한 보드(Avnet-Tria UltraZed-7EV Carrier Card)를 선택.
