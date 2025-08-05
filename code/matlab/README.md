@@ -5,4 +5,4 @@
 
 ## B. Code 실행
 1. Matlab을 실행한 뒤, 현재 디렉토리 내에 있는 6개의 .m 코드들 중에, `test.fft_fixed_stu.m` 코드를 실행.
-2. 기존에는 outputs 디렉토리 안에 아무런 파일이 없지만, 정상적으로 test 코드가 실행될 경우에 outputs 디렉토리 내부로 (.txt) 결과 파일이 출력.
+2. 기존에는 outputs 디렉토리가 없지만, 정상적으로 test 코드가 실행될 경우에 outputs 디렉토리 내부로 (.txt) 결과 파일이 출력.
