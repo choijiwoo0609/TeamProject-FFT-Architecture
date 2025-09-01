@@ -2,17 +2,25 @@
 ![과정: AI 시스템반도체설계 2기](https://img.shields.io/badge/과정-AI%20시스템반도체설계%202기-FFD700?style=flat&logo=github&logoColor=FFD700)
 ![과목: Memory Controller SoC Peripheral 설계 프로젝트](https://img.shields.io/badge/과목-Memory%20Controller%20SoC%20Peripheral%20설계%20프로젝트-4CAF50?style=flat&logo=databricks&logoColor=white)
 
+---
+## 💻 기술 스택 (Tech Stack)
 
-### 💻 기술 스택 (Tech Stack)
-
-#### 📕 언어 / HDL
+### 📕 언어 / HDL
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=flat&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-00599C?style=flat&logo=verilog&logoColor=white)
 
-#### 📊 툴 / 소프트웨어
+---
+
+### 📊 툴 / 소프트웨어
 ![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?style=flat&logo=MathWorks&logoColor=white)
 ![Synopsys Verdi](https://img.shields.io/badge/Synopsys-Verdi-663399?style=flat&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-FCAE1E?style=flat&logo=xilinx&logoColor=white)
+
+---
+
+### ⚙️ 개발환경 (Development Environment)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kernel-FCC624?style=flat&logo=linux&logoColor=black)
+![MobaXterm](https://img.shields.io/badge/개발환경(툴):%20MobaXterm-2E8B57?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
 
