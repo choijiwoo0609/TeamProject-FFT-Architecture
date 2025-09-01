@@ -25,7 +25,7 @@
 ---
 
 ### 🏫 교육 정보 (Education Info)
-- 대한상공회의소 서울기술교육센터  
+- 교육명: 대한상공회의소 서울기술교육센터  
 - 과정: AI 시스템반도체설계 2기  
 - 과목: Memory Controller SoC Peripheral 설계 프로젝트  
 
