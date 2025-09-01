@@ -5,13 +5,13 @@
 ---
 ## 💻 기술 스택 (Tech Stack)
 
-### 📕 언어 / HDL
+### 📕 언어 (Languages)
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=flat&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-00599C?style=flat&logo=verilog&logoColor=white)
 
 ---
 
-### 📊 툴 / 소프트웨어
+### 📊 툴 (Tools)
 ![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?style=flat&logo=MathWorks&logoColor=white)
 ![Synopsys Verdi](https://img.shields.io/badge/Synopsys-Verdi-663399?style=flat&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-FCAE1E?style=flat&logo=xilinx&logoColor=white)
